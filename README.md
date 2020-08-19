@@ -4,6 +4,8 @@ you'll have to arrange them according to some simple rules.
 RULE 1 - If a row gets fully filled with blocks, you get 1 one point.
 RULE 2 - If any block touches the top, game will end.
 
+Controls - Left, right and down arrow keys for moving the shapes. Up arrow key for changing the shape orientation.
+
 Tools used -
 The main language used is Python 3.
 And GUI is provided with the help of Pygame.
